@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1778-add-a-gdpr-compliance-overview-for-teachlink-web",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1778-add-a-gdpr-compliance-overview-for-teachlink-web": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1778-add-a-gdpr-compliance-overview-for-teachlink-web",
+    "origin"
+  ]
+}
